@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bar Website<br><br>🌱 I’m currently learning React and JavaScript<br><br>👯 I’m looking to collaborate on Frontend and Backend Projects<br><br>💬 Ask me about Java and Dart<br><br>📫 How to reach me www.linkedin.com/in/sithum-raigamage
+🔭 I’m currently working on MazeSolver<br><br>🌱 I’m currently learning React and JavaScript<br><br>👯 I’m looking to collaborate on Frontend and Backend Projects<br><br>💬 Ask me about Java and Dart<br><br>📫 How to reach me www.linkedin.com/in/sithum-raigamage
 
 
 ## 🌐 Socials:
