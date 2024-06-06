@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Travel Website for a Client<br><br>🌱 I’m currently learning JavaScript,React and Node Js<br><br>👯 I’m looking to collaborate on Frontend and Backend Projects<br><br>💬 Ask me about Java and Dart<br><br>📫 How to reach me www.linkedin.com/in/sithum-raigamage
+🔭 I’m currently working on a Travel Website for a Client<br><br>🌱 I’m currently learning JavaScript,React and Node Js<br><br>👯 I’m looking to collaborate on Frontend and Backend Projects<br><br>💬 Ask me about Java,Html,Css and JavaScript<br><br>📫 How to reach me www.linkedin.com/in/sithum-raigamage
 
 
 ## 🌐 Socials:
