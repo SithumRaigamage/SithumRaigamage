@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Software Engineering Intern and a uinversity student<br>👯 I’m looking to collaborate on frontend and backend projects<br>🤝 I’m looking for help with with project architecture and best coding practices.<br>🌱 I’m currently learning Angular,Node.js and ReactJs.<br>💬 Ask me about my internship experience or my favorite coding projects!<br>⚡ Fun fact: I love exploring new tech trends and tools in my spare time!
+🔭 I’m currently a Software Engineering Intern and a University student<br>👯 I’m looking to collaborate on frontend and backend projects<br>🤝 I’m looking for help with with project architecture and best coding practices.<br>🌱 I’m currently learning Angular,Node.js and ReactJs.<br>💬 Ask me about my internship experience or my favorite coding projects!<br>⚡ Fun fact: I love exploring new tech trends and tools in my spare time!
 
 
 
