@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+by+day%2C+SwiftUI+by+night;CI%2FCD+pipelines+that+actually+gate+on+quality;Currently+shipping+my+IIT+final+year+project;Learning+to+build+with+LLMs+in+2026" alt="What I do"/>
+</p>
+
+<p align="center">
   <a href="https://sithumraigamage.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/sithum-raigamage"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sraig2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -90,6 +94,27 @@ Building LLM-backed features (RAG, tool-calling, MCP), infrastructure as code, a
 
 ---
 
+## 🔄 How I Ship
+
+Rendered natively by GitHub — no external service, no rate limits.
+
+```mermaid
+flowchart LR
+    A([💡 Idea]) --> B[⌨️ TypeScript<br/>Angular · Next.js · Node]
+    B --> C[🧪 Tests]
+    C --> D[🐳 Docker build]
+    D --> E[⚙️ Jenkins pipeline]
+    E --> F{🔍 SonarQube<br/>quality gate}
+    F -->|passed| G([🚀 Deploy])
+    F -->|failed| B
+
+    style A fill:#1F6FEB,stroke:#58A6FF,color:#fff
+    style G fill:#238636,stroke:#2EA043,color:#fff
+    style F fill:#9E6A03,stroke:#D29922,color:#fff
+```
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
@@ -166,10 +191,18 @@ Building LLM-backed features (RAG, tool-calling, MCP), infrastructure as code, a
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-</p>
+## 🐍 Watch my contributions get eaten
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=SithumRaigamage&icon=1&color=1" alt="Visitor count"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SithumRaigamage/SithumRaigamage/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SithumRaigamage/SithumRaigamage/output/github-snake.svg"/>
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/SithumRaigamage/SithumRaigamage/output/github-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
