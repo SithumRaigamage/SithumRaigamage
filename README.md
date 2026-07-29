@@ -17,7 +17,7 @@
 
 - 🏢 **Associate Software Engineer at Wavenet**, while finishing my degree at **IIT Sri Lanka**
 - 🔭 Currently on my **final year project** and a Next.js 15 intranet portal
-- 🌱 Going deep on **DevOps** — CI/CD, containers, code quality gates — with AI/ML next on the list
+- 🌱 Going deep on **DevOps** — CI/CD, containers, code quality gates — and moving into **AI-assisted development and LLM app building**
 - ⚙️ Most at home across **TypeScript, Angular/React/Next.js, Node.js, and Jenkins pipelines**
 - 📱 Weekend side quest: **SwiftUI** iOS apps
 - 👯 Open to collaborating on frontend and backend projects
@@ -75,6 +75,21 @@
 
 ---
 
+## 🌱 Currently Exploring
+
+> Not claiming these yet — this is my 2026 learning track.
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/opentelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Biome](https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+
+Building LLM-backed features (RAG, tool-calling, MCP), infrastructure as code, and getting my pipelines observable rather than just green.
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
@@ -110,16 +125,37 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SithumRaigamage&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img src="https://img.shields.io/github/followers/SithumRaigamage?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/SithumRaigamage?style=for-the-badge&logo=github&label=Stars&color=181717" alt="Stars"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SithumRaigamage&theme=transparent" alt="Profile summary"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SithumRaigamage&theme=transparent" alt="Top languages by repo"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SithumRaigamage&theme=transparent" alt="Top languages by commit"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=SithumRaigamage&theme=transparent&hide_border=false" alt="Streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumRaigamage&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SithumRaigamage&theme=github-compact&bg_color=00000000&hide_border=true" alt="Contribution activity graph"/>
 </p>
 
 <details>
-<summary>🏆 Trophies & contributions</summary>
+<summary>🏆 Trophies, contributions & commit habits</summary>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SithumRaigamage&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SithumRaigamage&theme=transparent" alt="Commit stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SithumRaigamage&theme=transparent&utcOffset=5.5" alt="Productive time"/>
 </p>
 
 <p align="center">
