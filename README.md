@@ -164,27 +164,15 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SithumRaigamage&theme=transparent&hide_border=false" alt="Streak stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SithumRaigamage&theme=github-compact&bg_color=00000000&hide_border=true" alt="Contribution activity graph"/>
 </p>
 
 <details>
-<summary>🏆 Trophies, contributions & commit habits</summary>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SithumRaigamage&theme=transparent&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
-</p>
+<summary>📈 Commit stats & when I actually code</summary>
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SithumRaigamage&theme=transparent" alt="Commit stats"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SithumRaigamage&theme=transparent&utcOffset=5.5" alt="Productive time"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SithumRaigamage&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top contributed repos"/>
 </p>
 
 </details>
