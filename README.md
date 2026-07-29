@@ -168,11 +168,45 @@ flowchart LR
 
 ---
 
-<!-- TODO: fill in certifications, or delete this whole section
 ## 🏅 Certifications
 
-- Certification Name — Issuer, Year
--->
+21 in total. The 2025 run is deliberate — it tracks the move from full-stack into DevOps.
+
+| Certification | Issuer | Date | Skills |
+| --- | --- | --- | --- |
+| **Learning Jenkins** | LinkedIn Learning | Oct 2025 | Jenkins · CI/CD |
+| **Docker for Developers** | LinkedIn Learning | Jul 2025 | Docker · Dockerfiles · Compose |
+| **Introducing Postman** | LinkedIn Learning | Jun 2025 | API testing · Collections |
+| **HTTP Essential Training** | LinkedIn Learning | May 2025 | HTTP · Status codes · Cookies |
+| **DevOps Foundations: Continuous Delivery/Continuous Integration** | LinkedIn Learning | Mar 2025 | CI/CD pipelines |
+| **Introduction to Linux** | LinkedIn Learning | Feb 2025 | Linux · Shell · Filesystem |
+| **Git Essential Training** | LinkedIn Learning | Mar 2024 | Git · GitHub · Branching |
+| **Professional Certificate in Java Programming** | IIT Campus | — | Java · Spring · OOP |
+
+<details>
+<summary>More certifications & workshops</summary>
+
+**Courses**
+
+- **Introduction to Web Design and Development** — LinkedIn Learning, Feb 2025 · UX/UI, prototyping, web hosting
+- **Learning Angular** — LinkedIn Learning, Sep 2024 · Angular, Angular CLI
+- **Learning Bitbucket** — LinkedIn Learning, Jun 2024 · Bitbucket, Git
+- **Introduction to Dart** — LinkedIn Learning, Apr 2024 · Dart
+- **Java Swing** — LinkedIn Learning, Jan 2024 · Java Swing, GUI, event handling
+- **Java Object-Oriented Programming** — LinkedIn Learning, Jan 2024 · Classes, inheritance, polymorphism
+- **MySQL Essential Training** — LinkedIn Learning, Dec 2023 · MySQL, queries, joins
+
+**Workshops & participation**
+
+- **Problem Solving International Hackathon 24** — University of Westminster, Mar 2024
+- **Introduction to Docker** — Fidenz Academy, Mar 2024
+- **Web Development Workshop Series at Webspire** — IEEE CS SBC of IIT, Jan 2024
+- **GIT101 Workshop** — Women in FOSS · IIT, Oct 2023
+- **API Workshop** — Fidenz Academy, Nov 2023
+- **Aquathon** — IEEE Student Branch of IIT
+
+</details>
+
 
 ## 📊 GitHub Stats
 
