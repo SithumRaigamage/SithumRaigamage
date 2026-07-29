@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+by+day%2C+SwiftUI+by+night;CI%2FCD+pipelines+that+actually+gate+on+quality;Currently+shipping+my+IIT+final+year+project;Learning+to+build+with+LLMs+in+2026" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+by+day%2C+SwiftUI+by+night;CI%2FCD+pipelines+that+actually+gate+on+quality;Currently+shipping+my+IIT+final+year+project;Learning+cloud%2C+AI%2FML+and+AI+agents+in+2026" alt="What I do"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 - 🏢 **Associate Software Engineer at Wavenet**, while finishing my degree at **IIT Sri Lanka**
 - 🔭 Currently on my **final year project** and a Next.js 15 intranet portal
-- 🌱 Going deep on **DevOps** — CI/CD, containers, code quality gates — and moving into **AI-assisted development and LLM app building**
+- 🌱 Going deep on **DevOps and cloud** — CI/CD, containers, config management, infrastructure as code — and into **AI/ML and agent-based systems**
 - ⚙️ Most at home across **TypeScript, Angular/React/Next.js, Node.js, and Jenkins pipelines**
 - 📱 Weekend side quest: **SwiftUI** iOS apps
 - 👯 Open to collaborating on frontend and backend projects
@@ -83,14 +83,41 @@
 
 > Not claiming these yet — this is my 2026 learning track.
 
+**☁️ Cloud & Infrastructure as Code**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=FF9900)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/opentelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![Biome](https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Chef](https://img.shields.io/badge/chef-%23F09820.svg?style=for-the-badge&logo=chef&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 
-Building LLM-backed features (RAG, tool-calling, MCP), infrastructure as code, and getting my pipelines observable rather than just green.
+**📡 Observability & Delivery**
+
+![Argo CD](https://img.shields.io/badge/argo%20cd-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/opentelemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+**🤖 AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%234DABCF.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/hugging%20face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**🧠 AI Agents**
+
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/model%20context%20protocol-%23000000.svg?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github%20copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+Working toward provisioning infrastructure as code instead of by hand, making pipelines observable rather than just green, and building agentic LLM features — RAG, tool-calling, and MCP servers.
 
 ---
 
